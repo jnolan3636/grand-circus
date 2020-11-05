@@ -1,0 +1,41 @@
+
+
+body {
+  background-color: #f9fafc;
+  font-family: 'Open Sans', sans-serif;
+  }
+button {
+  background-color: #000;
+  color: white;
+  width: 100%;
+  border-radius: 20px;
+  padding: 10px;
+  text-align: center;
+}
+ 
+ a:link {
+   color:#69696a;
+   text-decoration: none;
+ }
+ a:visited {
+     color:#69696a;
+   text-decoration: none;
+ }
+ 
+ nav {
+   color:  #69696a;
+ }
+  ul {
+    list-style-type: none;
+  
+ }
+ blockquote
+ {
+   border-left: 3px solid #69696a;
+   margin: 10px;
+   padding: 10px;
+   
+ }
+
+
+  

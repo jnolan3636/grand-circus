@@ -1,0 +1,19 @@
+.container {
+    background-color: #ea4c89;
+    margin: 50px;
+    transform: translate x, y(-50px;)
+    width: 500px;
+    height: 500px;
+    font-size: 10px;
+  
+}
+.login {
+        background-color: gray;
+        margin: 50px; 
+        display: block;
+        padding: 50px;
+        width: 250px;
+        height: 250px;
+        align-content: center;
+        
+}

@@ -1,0 +1,26 @@
+section, footer, header, p, a, h1 {
+    border: 2px solid cornflowerblue;
+    margin: 5px;
+    padding: 3px;
+    
+  }
+  html, body {
+  margin: 0;
+  padding: 0;
+  border: none;
+  }
+  body {
+  height: 100vh;
+  width: 100%;
+  }
+    header, section, footer {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+  
+  }
+  .main {
+    width: 75%;
+  }
+  
